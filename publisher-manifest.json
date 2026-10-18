@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "c774c104a4fc608e4a63f0f3",
+  "owner": "hjvpjsxb",
+  "repo": "page-09ff11099837919bab6f7dd9",
+  "title": "唯兔云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "09ff11099837919bab6f7dd9",
+      "a": "唯兔云",
+      "b": "",
+      "entity": "唯兔云",
+      "brand": "唯兔云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "936a0df899f86c9ee995b520c9b0cd94863884428a2ecb5efdf2a334136151d2",
+      "content": {
+        "keyword1": "唯兔云",
+        "keyword2": "",
+        "primary_entity": "唯兔云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "唯兔云提供按月与按年订阅的网络节点路由服务，覆盖基础、旗舰、团队三档方案，以深海蓝与琥珀色调呈现简洁的产品页与常见问题。",
+          "AI_DESCRIPTION": "唯兔云提供按月与按年订阅的网络节点路由服务，覆盖基础、旗舰、团队三档方案，以深海蓝与琥珀色调呈现简洁的产品页与常见问题。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*,*::before,*::after{box-sizing:border-box}\nhtml{-webkit-text-size-adjust:100%;text-size-adjust:100%}\nbody{margin:0;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#0b1d36;color:#e8eef7;line-height:1.6;-webkit-font-smoothing:antialiased}\na{color:#f3b14a;text-decoration:none;border-bottom:1px solid rgba(243,177,74,.4);transition:color .2s ease,border-color .2s ease}\na:hover{color:#ffd28a;border-color:#ffd28a}\nh1,h2,h3{margin:0 0 .5em;font-weight:600;letter-spacing:.02em}\nh1{font-size:clamp(2.2rem,5vw,3.6rem);line-height:1.15}\nh2{font-size:clamp(1.45rem,2.4vw,2rem);color:#f3b14a;margin-top:1.6em}\nh3{font-size:1.1rem;color:#e8eef7}\np{margin:0 0 1em;color:#cfd9e6}\nul{margin:0 0 1em;padding-left:1.2em}\nli{margin-bottom:.4em;color:#cfd9e6}\n.hero{padding:clamp(1.2rem,2.5vw,2.4rem) clamp(1rem,4vw,2.4rem) clamp(2rem,4vw,3rem)}\n.hero-grid{display:grid;grid-template-columns:1.15fr .85fr;gap:clamp(1.2rem,3vw,2.4rem);align-items:stretch;max-width:1180px;margin:0 auto}\n.hero-left{display:flex;flex-direction:column;justify-content:center}\n.hero-tag{display:inline-block;font-size:.78rem;letter-spacing:.18em;text-transform:uppercase;color:#f3b14a;border:1px solid rgba(243,177,74,.4);padding:.35em .9em;border-radius:999px;margin-bottom:1.1rem;width:max-content}\n.hero-left p.lead{font-size:1.05rem;max-width:36em;color:#cfd9e6}\n.hero-meta{display:flex;flex-wrap:wrap;gap:1.4rem;margin-top:1.4rem;color:#9eb1c9;font-size:.88rem}\n.hero-meta span b{display:block;color:#f3b14a;font-size:1.05rem;font-weight:600}\n.anchor-nav{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:1.6rem}\n.anchor-nav a{font-size:.85rem;padding:.45em 1em;border-radius:999px;background:rgba(243,177,74,.08);border:1px solid rgba(243,177,74,.25);color:#f3b14a}\n.anchor-nav a:hover{background:rgba(243,177,74,.18)}\n.info-panel{background:#0f2647;border-radius:22px;padding:1.6rem 1.5rem;box-shadow:0 20px 40px -20px rgba(243,177,74,.18),0 2px 8px rgba(0,0,0,.35);border:1px solid rgba(243,177,74,.12)}\n.info-panel h3{color:#f3b14a;margin-bottom:.8rem;letter-spacing:.05em}\n.info-panel dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:.45rem 1rem;font-size:.9rem}\n.info-panel dt{color:#9eb1c9}\n.info-panel dd{margin:0;color:#e8eef7}\n.info-panel .panel-note{margin-top:1.2rem;padding-top:1rem;border-top:1px dashed rgba(243,177,74,.25);font-size:.8rem;color:#9eb1c9}\n.section{max-width:1180px;margin:0 auto;padding:clamp(2rem,5vw,4rem) clamp(1rem,4vw,2.4rem)}\n.section + .section{border-top:1px solid rgba(243,177,74,.08)}\n.intro-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1.2rem;margin-top:1.2rem}\n.intro-grid article{background:#0f2647;border-radius:22px;padding:1.4rem;box-shadow:0 12px 28px -18px rgba(0,0,0,.55),0 2px 6px rgba(0,0,0,.3);border:1px solid rgba(243,177,74,.08)}\n.intro-grid h3{color:#f3b14a;font-size:1rem;margin-bottom:.4rem}\n.steps{counter-reset:step;padding:0;list-style:none;margin:1.2rem 0 0}\n.steps li{counter-increment:step;position:relative;padding:1rem 1.2rem 1rem 4rem;background:#0f2647;border-radius:18px;margin-bottom:.9rem;box-shadow:0 8px 20px -14px rgba(0,0,0,.5);border:1px solid rgba(243,177,74,.08)}\n.steps li::before{content:counter(step,decimal-leading-zero);position:absolute;left:1rem;top:50%;transform:translateY(-50%);font-family:\"Courier New\",monospace;font-size:1.6rem;color:#f3b14a;opacity:.85}\n.plans-step{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.2rem;align-items:stretch;margin-top:1.2rem}\n.plan{background:#0f2647;border-radius:22px;padding:1.6rem 1.4rem;box-shadow:0 16px 32px -20px rgba(0,0,0,.55),0 2px 8px rgba(0,0,0,.3);border:1px solid rgba(243,177,74,.1);position:relative;display:flex;flex-direction:column}\n.plan.featured{border-color:#f3b14a;box-shadow:0 22px 44px -18px rgba(243,177,74,.25),0 2px 10px rgba(0,0,0,.4);transform:translateY(-6px)}\n.plan .badge{position:absolute;top:-12px;right:1.2rem;background:#f3b14a;color:#0b1d36;font-size:.7rem;font-weight:700;letter-spacing:.1em;padding:.3em .8em;border-radius:999px;text-transform:uppercase}\n.plan h3{font-size:1.2rem;margin-bottom:.2em;color:#fff}\n.plan .price{font-size:1.6rem;color:#f3b14a;font-weight:600;margin:.4em 0 .2em}\n.plan .annual{font-size:.85rem;color:#9eb1c9;margin-bottom:1rem}\n.plan ul{list-style:none;padding:0;margin:0 0 1.2rem;flex:1}\n.plan li{padding:.45em 0;border-bottom:1px dashed rgba(243,177,74,.15);font-size:.92rem;color:#e8eef7}\n.plan li:last-child{border-bottom:none}\n.plan .hint{font-size:.78rem;color:#9eb1c9;margin-top:auto}\n.clients{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;margin-top:1.2rem}\n.client{background:#0f2647;border-radius:20px;padding:1.2rem;box-shadow:0 10px 24px -16px rgba(0,0,0,.55);border:1px solid rgba(243,177,74,.08)}\n.client h3{font-size:.95rem;color:#f3b14a;margin-bottom:.4em}\n.client p{font-size:.85rem;color:#cfd9e6;margin:0}\n.faq-groups{display:grid;grid-template-columns:1fr;gap:1.4rem;margin-top:1.2rem}\n.faq-group{background:#0f2647;border-radius:22px;padding:1.4rem 1.4rem 1rem;box-shadow:0 14px 30px -18px rgba(0,0,0,.55);border:1px solid rgba(243,177,74,.08)}\n.faq-group h3{color:#f3b14a;font-size:1rem;margin-bottom:.8rem;letter-spacing:.05em}\n.faq-group details{background:#0b1d36;border-radius:14px;padding:.6rem 1rem;margin-bottom:.6rem;border:1px solid rgba(243,177,74,.1)}\n.faq-group summary{cursor:pointer;font-size:.95rem;color:#e8eef7;list-style:none;outline:none}\n.faq-group summary::-webkit-details-marker{display:none}\n.faq-group summary::before{content:\"＋\";color:#f3b14a;margin-right:.6em;font-weight:700}\n.faq-group details[open] summary::before{content:\"－\"}\n.faq-group details p{margin:.6em 0 .2em;font-size:.88rem;color:#cfd9e6}\n.foot{padding:2rem 1.4rem;text-align:center;font-size:.8rem;color:#6f84a0;background:#081528;border-top:1px solid rgba(243,177,74,.08)}\n.foot span{color:#f3b14a}\n@media (max-width:760px){\n.hero-grid{grid-template-columns:1fr}\n.hero-left{order:1}\n.info-panel{order:2}\n.hero-meta{gap:1rem}\n}\n</style><main>\n\n<header class=\"hero\">\n<div class=\"hero-grid\">\n<div class=\"hero-left\">\n<span class=\"hero-tag\">Weitu Cloud · 节点路由订阅</span>\n<h1>唯兔云</h1>\n<p class=\"lead\">一档连接，一份清单，唯兔云用深海蓝与琥珀光把订阅、节点、设备数整理成可直接阅读的几行字。短句是这里的语法，留白是这里的节奏。</p>\n<nav class=\"anchor-nav\" aria-label=\"首屏锚点\">\n<a href=\"#about\">关于</a>\n<a href=\"#start\">开始使用</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n<div class=\"hero-meta\">\n<span><b>3</b>档订阅</span>\n<span><b>100GB–1000GB</b>月流量区间</span>\n<span><b>20</b>台设备上限</span>\n<span><b>7×24</b>工单支持</span>\n</div>\n</div>\n<aside class=\"info-panel\" aria-label=\"服务速览\">\n<h3>服务速览</h3>\n<dl>\n<dt>品牌</dt><dd>唯兔云</dd>\n<dt>订阅模式</dt><dd>按月 / 按年两档</dd>\n<dt>协议支持</dt><dd>公开文档列出的常见代理协议</dd>\n<dt>设备上限</dt><dd>3 / 5 / 20 台三档</dd>\n<dt>流媒体</dt><dd>基础解锁 / 原生全节点解锁</dd>\n<dt>专线服务</dt><dd>IPLC 专线游戏优化</dd>\n<dt>工单时间</dt><dd>基础版工作时间，旗舰版 7×24</dd>\n<dt>客户经理</dt><dd>团队版提供一对一</dd>\n</dl>\n<p class=\"panel-note\">本页所有套餐价格、设备数、流量额度均直接来自品牌提供的清单，未做夸大包装。</p>\n</aside>\n</div>\n</header>\n\n<section class=\"section\" id=\"about\">\n<h2>关于唯兔云</h2>\n<p>唯兔云把订阅流程拆成了三句话：选档、付款、复制订阅链接。这里没有长篇宣传，每一行字都对应一个动作。</p>\n<div class=\"intro-grid\">\n<article>\n<h3>节点池</h3>\n<p>基础版接入普通线路节点池，覆盖日常浏览与办公流量。线路说明以服务方公开文档为准。</p>\n</article>\n<article>\n<h3>流媒体</h3>\n<p>旗舰版宣称全节点原生流媒体解锁，适合追剧与跨区内容订阅用户。</p>\n</article>\n<article>\n<h3>专线优化</h3>\n<p>旗舰版包含 IPLC 专线游戏加速优化项，主要面向延迟敏感型玩家。</p>\n</article>\n<article>\n<h3>团队支持</h3>\n<p>团队版开放企业定制路由，并配备专属客户经理，用于多人多设备的协同场景。</p>\n</article>\n</div>\n</section>\n\n<section class=\"section\" id=\"start\">\n<h2>开始使用</h2>\n<p>四步走完最短路径。每一步只做一件事。</p>\n<ol class=\"steps\">\n<li>在下方套餐中选择基础版、旗舰版或团队版，确认月付与年付价格。</li>\n<li>完成支付后，账户中心会同步生成一条订阅链接，复制即可。</li>\n<li>下载与你设备匹配的客户端，将订阅链接粘贴至“添加订阅”栏目。</li>\n<li>在客户端中选取节点，核对剩余流量与到期日，开始使用。</li>\n</ol>\n</section>\n\n<section class=\"section\" id=\"plans\">\n<h2>套餐</h2>\n<p>按档排列，旗舰版置于最高位并附推荐标记。流量与设备数以月付口径呈现，年付价格单独标注。</p>\n<div class=\"plans-step\">\n\n<article class=\"plan\">\n<h3>基础版</h3>\n<div class=\"price\">¥15/月</div>\n<div class=\"annual\">按年付仅需 ¥150/年</div>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<p class=\"hint\">适合个人轻度使用与初次订阅的设备。</p>\n</article>\n\n<article class=\"plan featured\">\n<span class=\"badge\">推荐</span>\n<h3>旗舰版</h3>\n<div class=\"price\">¥35/月</div>\n<div class=\"annual\">按年付仅需 ¥350/年</div>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7×24 优先工单支持</li>\n</ul>\n<p class=\"hint\">适合追剧、跨区订阅与对延迟敏感的玩家。</p>\n</article>\n\n<article class=\"plan\">\n<h3>团队版</h3>\n<div class=\"price\">¥85/月</div>\n<div class=\"annual\">按年付仅需 ¥850/年</div>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<p class=\"hint\">适合多人协同办公与小型工作室。</p>\n</article>\n\n</div>\n</section>\n\n<section class=\"section\" id=\"clients\">\n<h2>客户端与平台</h2>\n<p>唯兔云通过标准订阅链接方式与多平台客户端配合工作，具体客户端请参考设备自带的应用市场或开源仓库。下方列出常见运行环境，便于查阅。</p>\n<div class=\"clients\">\n<div class=\"client\">\n<h3>桌面端</h3>\n<p>Windows、macOS 与主流 Linux 发行版可使用兼容标准订阅的客户端，包括 Clash、Surge 等常见选择。</p>\n</div>\n<div class=\"client\">\n<h3>移动端</h3>\n<p>iOS 与 Android 平台可在应用市场检索支持订阅链接导入的客户端，按提示粘贴即可完成配置。</p>\n</div>\n<div class=\"client\">\n<h3>路由器</h3>\n<p>OpenWrt、Padavan 等常见固件可安装支持订阅链接的插件，统一为家中设备提供网络出口。</p>\n</div>\n<div class=\"client\">\n<h3>命令行</h3>\n<p>Linux 服务器与 NAS 设备可使用命令行客户端以 systemd 服务方式常驻，适合无人值守场景。</p>\n</div>\n</div>\n</section>\n\n<section class=\"section\" id=\"faq\">\n<h2>常见问题</h2>\n<p>问题按主题分组。点击展开可查看答案；遇到未列出情况，可通过工单或专属客户经理渠道咨询。</p>\n<div class=\"faq-groups\">\n\n<div class=\"faq-group\">\n<h3>订阅与价格</h3>\n<details>\n<summary>基础版、旗舰版、团队版如何选择？</summary>\n<p>按设备数与流量需求选择。个人轻度使用选基础版；追剧、跨区订阅、低延迟玩家选旗舰版；多设备协同或工作室场景选团队版。</p>\n</details>\n<details>\n<summary>月付和年付有什么区别？</summary>\n<p>月付按月扣费，适合短期试用；年付一次性结算，套餐页标注的年付价格为一年总价，便于对比。</p>\n</details>\n<details>\n<summary>套餐之间可以升降级吗？</summary>\n<p>支持升降级。差额按剩余天数折算，具体计算方式以账户中心的提示为准。</p>\n</details>\n<details>\n<summary>是否支持退款？</summary>\n<p>本页未列出官方退款政策细节，请在订阅前查阅服务条款或咨询工单。</p>\n</details>\n</div>\n\n<div class=\"faq-group\">\n<h3>设备与平台</h3>\n<details>\n<summary>一台设备能同时登录吗？</summary>\n<p>套餐所示的设备数表示可同时在线的上限，多于此数的设备会被拒绝连接。</p>\n</details>\n<details>\n<summary>可以在路由器上使用吗？</summary>\n<p>可以。使用支持订阅链接的路由器固件插件即可，整屋设备共享一条出口。</p>\n</details>\n<details>\n<summary>是否提供专用客户端？</summary>\n<p>本页未列出官方客户端下载链接，建议在应用市场检索支持订阅导入的常见客户端，并验证来源可信。</p>\n</details>\n</div>\n\n<div class=\"faq-group\">\n<h3>网络与节点</h3>\n<details>\n<summary>节点池如何分类？</summary>\n<p>基础版接入普通线路节点池；旗舰版覆盖全节点原生流媒体解锁；团队版开放 VIP 专属高带宽节点。</p>\n</details>\n<details>\n<summary>IPLC 专线是什么？</summary>\n<p>IPLC 指国际专线，常用于降低跨区延迟。旗舰版将其纳入游戏加速优化项。</p>\n</details>\n<details>\n<summary>流媒体解锁怎么理解？</summary>\n<p>指可用于访问特定区域流媒体内容的节点能力；不同档位解锁范围以套餐说明为准。</p>\n</details>\n</div>\n\n<div class=\"faq-group\">\n<h3>支持与售后</h3>\n<details>\n<summary>工单响应时间是多久？</summary>\n<p>基础版工单在工作时间内处理；旗舰版提供 7×24 优先工单；团队版配备专属客户经理。</p>\n</details>\n<details>\n<summary>企业定制路由包含什么？</summary>\n<p>团队版支持企业定制路由，可针对业务场景调整节点与出口策略，具体需求请与专属经理沟通。</p>\n</details>\n<details>\n<summary>如何联系人工客服？</summary>\n<p>请通过账户中心提交工单；团队版用户可直接联系专属客户经理。</p>\n</details>\n</div>\n\n</div>\n</section>\n\n</main>\n\n<footer class=\"foot\">\n<span>唯兔云</span> · 深海蓝与琥珀色调的简洁产品页 · 数据与价格以本页套餐区为准\n</footer>",
+          "hash": "81ee2e7c7254b741d4bf639f558e16ece0da8fa2e2dbb598d31ca219a5894a4b",
+          "seo": {
+            "title": "唯兔云 | 深海蓝与琥珀色调的节点路由服务",
+            "keywords": "唯兔云,节点路由,网络代理,流媒体解锁,专线优化,团队方案",
+            "description": "唯兔云提供按月与按年订阅的网络节点路由服务，覆盖基础、旗舰、团队三档方案，以深海蓝与琥珀色调呈现简洁的产品页与常见问题。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "8432",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bfceo.cn",
+    "host": "p-ae4e8c9598.bfceo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "61bf6689250832272686550785a606e3ee63ae55b27336944dbbd2d6b87e06ad",
+    "sitemap.xml": "9b5d7009aa13c5e158fd3929ba780a1caed4fb34727d3413940a874f890cf4f5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c14a003dc7d72f0c6d54d57d4a4d75e9b7b7ca80e0a6d15d5bd81fcbfca4ad38",
+    "robots.txt": "9a788c8de7dc8cf7dc301e78969222ad42ca7e6105b5d2a9c141fe1660e21255",
+    "6724651e99b9e3de377f00dca6a026f4.txt": "d6431e7728d48a9ed3c4f1c946df7ed6f29e0baeeb6422a3a20855ec862458a1"
+  },
+  "revision": "de2c7860957f078250159784c6f8c742a8c80da8eb03e412451eec3492fe4058"
+}
